@@ -1,4 +1,6 @@
 
+
+
 # Configure the OpenStack Provider
 provider "openstack" {
     user_name  = "admin"
